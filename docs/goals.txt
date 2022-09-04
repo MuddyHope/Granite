@@ -1,0 +1,15 @@
+Two Sentence Description(About)
+>Todo list with Command Line (Granite)
+
+Project Goals
+>add, delete, modify, priority list, timeline, completed or not.
+>viewing the todo list
+>Learn file handling with C programming 
+>Hosting a server using CL
+>Database connection
+
+Expected Technologies to Use
+>Linux
+>Webserver
+>Docker
+>Database
